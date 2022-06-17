@@ -3,6 +3,7 @@
 # Domestika
 
 ## Curso Layout web con CSS Grid, Flexbox y otras técnicas modernas.
+![Logo CSS Grid](logo-cssGrid.png) ![Logo Flexbox](log-flexbox.png)
 #### Un curso de Javier Usobiaga Ferrer, Diseñador web.
 
 :smile: :floppy_disk: :open_file_folder:
