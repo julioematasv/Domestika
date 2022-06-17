@@ -1,4 +1,4 @@
-![Logotipo de Domestika](Domestika/domestika-logo.png)
+![Logotipo de Domestika](domestika-logo.png)
 
 # Domestika
 
