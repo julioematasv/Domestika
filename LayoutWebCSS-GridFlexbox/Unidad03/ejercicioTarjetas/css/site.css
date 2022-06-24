@@ -11,13 +11,14 @@ img {
 }
 
 html {
-  min-height: 100%;
+  font-size: 62.5%;
 }
 
 body {
   min-height: 100%;
   color: #333333;
-  font: 1.4em/1.8 "EB Garamond", serif;
+  font-size: 1.6rem;
+  font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   padding: 0;
 }
